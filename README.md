@@ -86,7 +86,25 @@ window. On the Steam Deck these go under the game's **Properties → Launch Opti
 
 ## Controls
 
-The original defaults; change them in the menu under **Opties → Besturing**.
+Change them in the menu under **Opties → Besturing** (kept per player). The defaults:
+
+| Action                 | Keyboard and mouse                  | Game controller        |
+| ---------------------- | ----------------------------------- | ---------------------- |
+| Walk forward / back    | W / S                               | left stick             |
+| Step left / right      | A / D                               | left stick             |
+| Turn left / right      | mouse, or Shift+← / Shift+→         | right stick            |
+| Look up / down         | mouse, or ↑ / ↓                     | right stick            |
+| Fire                   | left mouse button or Ctrl           | RT                     |
+| Jump                   | right mouse button or Space         | A                      |
+| Walk slowly            | hold Shift                          | hold LT                |
+| Next / previous weapon | middle mouse button or Insert / Shift+7 | RB / LB            |
+| Weapon 1–5             | 1–5                                 | D-pad ↑ → ↓ ← (1–4)    |
+| Centre the view        | Shift+6                             | click the right stick  |
+| Pause                  | P                                   | Start                  |
+| Back to the menu       | Esc                                 | B or Back              |
+
+On the **Besturing** screen, choose **Controller** to see and change the controller's buttons
+(a stick direction can be bound too); the other two options show the keys.
 
 **Game controller** (the Steam Deck's own controls, Xbox, PS5 and compatible) works too.
 
